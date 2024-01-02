@@ -1,2 +1,2 @@
 # LancgChain
-Some mini demos for using Langchain for LLM, OpenAI.
+Some mini demos of Langchain for LLM, OpenAI.
